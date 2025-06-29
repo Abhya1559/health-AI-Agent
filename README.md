@@ -31,3 +31,13 @@ An intelligent AI-powered fitness chatbot built using **Python** and **Gemini AP
 
 ## 📁 Project Structure
 
+
+---
+
+## 🧪 Setup & Run Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/ai-fitness-chatbot.git
+cd ai-fitness-chatbot
